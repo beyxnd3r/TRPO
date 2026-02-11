@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 123
 second 123
 master branch change
+=======
+branch change
+>>>>>>> branch1
