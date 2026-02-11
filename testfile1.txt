@@ -5,3 +5,4 @@ master branch change
 =======
 branch change
 >>>>>>> branch1
+final change
