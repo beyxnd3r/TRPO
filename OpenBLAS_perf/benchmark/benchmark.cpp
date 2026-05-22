@@ -66,6 +66,7 @@ double geo_mean(const std::vector<double>& v) {
 
 int main() {
 
+    return 1;
     int n = 4000; 
     int m = 4000;
 
